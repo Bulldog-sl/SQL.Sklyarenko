@@ -4,9 +4,9 @@
 
 ``Last YoTube Videos``
 
-Languages adn Tools
+Languages and Tools ``добавить``
 
-Follow Me ``ссылка на Телегу``
+Сontact Me (https://t.me/bulldog_sl)
 
 # Bulldog_sl
 # test
