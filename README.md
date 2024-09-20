@@ -42,3 +42,5 @@ I have been working in the warehouse logistics department for more than 16 years
 ---
 
 ### 📁 Сертификаты доп. образования:
+
+<img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/stepik-certificate-Rusov%20A.(Ru).pdf"  width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/ViktoryiaKaplunHryts/About-me/blob/main/certificates/Screenshot2.png" width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/stepik-certificate-Alex%20Smith%20(ru).pdf" width="297" height="210" style="max-width: 100%;">
