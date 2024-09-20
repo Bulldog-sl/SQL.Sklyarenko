@@ -22,7 +22,8 @@ I have been working in the warehouse logistics department for more than 16 years
 ✔ Коллекции в Postman
 
 - [коллекция 1](https://www.postman.com/aviation-geoscientist-51267964/workspace/sklayrenko-v-for-cv)
-  ✔ [SQL - запросы ] - `добавить url`
+  
+✔ [SQL - запросы ] - `добавить url`
 
           - SQL `добавить url`
 
