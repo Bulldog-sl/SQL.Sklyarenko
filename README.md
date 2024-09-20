@@ -27,7 +27,7 @@ I have been working in the warehouse logistics department for more than 16 years
 
         - SQL `добавить url`
 
----
+## ✔ [SQL - запросы ](https://github.com/ViktoryiaKaplunHryts/SQL)
 
 ## 🛠 Инструменты и технологии:
 
