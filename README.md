@@ -22,7 +22,9 @@ SQL - Bulldog_sl
    ![](https://github.com/Bulldog-sl/SQL-Sklyarenko-V./blob/main/Pictures/Результат.png)
 
 3. Запрос по выдаче авто только марки Toyota:
+
    ![](https://github.com/Bulldog-sl/SQL-Sklyarenko-V./blob/main/Pictures/Создать%20запрос%20по%20выдаче%20авто%20только%20марки%20Toyota.png)
+
 4. Запрос по выдаче последних 3 авто:
 
    ![](https://github.com/Bulldog-sl/SQL-Sklyarenko-V./blob/main/Pictures/Создать%20запрос%20по%20выдаче%20последних%203%20авто.png)
