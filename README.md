@@ -25,7 +25,7 @@ I have been working in the warehouse logistics department for more than 16 years
   
 ✔ [SQL - запросы ] - `добавить url`
 
-          - SQL `добавить url`
+          - SQL (https://github.com/Bulldog-sl/SQL-Sklyarenko-V./tree/main)
 
 ## 🛠 Инструменты и технологии:
 
