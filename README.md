@@ -27,10 +27,7 @@ I have been working in the warehouse logistics department for more than 16 years
 <<<<<<< HEAD
 ✔ SQL - запросы - SQL
 
-- [Auto](https://github.com/Bulldog-sl/SQL-Sklyarenko-V.)
-=======
-          - SQL (https://github.com/Bulldog-sl/SQL-Sklyarenko-V./tree/main)
->>>>>>> 055b32d3a3f7721dbf63f1e39b7b34beed26a421
+- [Auto](https://github.com/Bulldog-sl/SQL.Sklyarenko)
 
 ## 🛠 Инструменты и технологии:
 
@@ -46,8 +43,8 @@ I have been working in the warehouse logistics department for more than 16 years
 
 ### 📁 Сертификаты доп. образования:
 
-<img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Alex%20Smith.jpg"  width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Rusov%20A.jpg" width="297" height="210" style="max-width: 100%;">
-=======
+# <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Alex%20Smith.jpg"  width="297" height="210" style="max-width: 100%;"> <img src="https://github.com/Bulldog-sl/Bulldog-sl/blob/main/Certificates/PNG/stepik-certificate-Rusov%20A.jpg" width="297" height="210" style="max-width: 100%;">
+
 # SQL---Sklyarenko-V.-
 
 SQL - Bulldog_sl
@@ -90,4 +87,5 @@ SQL - Bulldog_sl
 7. Запрос по выдаче авто стоимостью 1 000 000 рублей и более:
 
    ![](https://github.com/Bulldog-sl/SQL-Sklyarenko-V./blob/main/Pictures/Создать%20запрос%20по%20выдаче%20авто%20стоимостью%201%20000%20000%20рублей%20и%20более.png)
->>>>>>> 74877f38d4546df53663965d5514a679250ea310
+
+   > > > > > > > 74877f38d4546df53663965d5514a679250ea310
