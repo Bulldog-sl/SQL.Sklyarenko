@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7ea5f67e-9582-436c-8d5a-a37978dfef80)![Header](https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png)
+![Header](https://github.com/Bulldog-sl/Bulldog-sl/blob/main/assets/clipdoncomputer%20copy.png)
 
 ## I'm a beginner QA Engineer
 
