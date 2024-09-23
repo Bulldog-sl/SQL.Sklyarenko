@@ -17,7 +17,7 @@ I have been working in the warehouse logistics department for more than 16 years
 
 ✔ Тестовая документация:
 
-- [тест-кейс 1](https://docs.google.com/spreadsheets/d/1HZXtEAyZLyQZYPUcE6da34P8SdXfz_AR/edit?usp=sharing&ouid=117776258038580103271&rtpof=true&sd=true)
+- [тест-кейс 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9bTmS2zPeG4IAxNez7naOeByjUNfyZRu2DqMx9ywbVmftxKv93MFN93-an7q5IuE2quUCKue-TkUR/pubhtml)
 - [Тест-кейс + тестовый набор 1](https://docs.google.com/spreadsheets/d/1fcfe8l5AaCyksPcZd16lH6hepA_F--CX9jL9kp7E84Y/edit?usp=sharing)
 
 ✔ Коллекции в Postman
