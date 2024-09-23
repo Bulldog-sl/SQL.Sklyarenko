@@ -11,6 +11,7 @@ SQL - Bulldog_sl
 Версия приложения - DB Browser for SQLite Version 3.13.0
 
 1. Создание таблицы Auto:
+
    ![](https://github.com/Bulldog-sl/SQL-Sklyarenko-V./blob/main/Pictures/Создание%20таблицы%20Auto.png)
 
 2. Заполнить таблицу Auto 10:
