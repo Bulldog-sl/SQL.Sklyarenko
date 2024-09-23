@@ -5,7 +5,7 @@
 
 ---
 
-## 👩🏻‍💻 Обо мне:
+## 👨‍💻 Обо мне:
 
 I have been working in the warehouse logistics department for more than 16 years
 `добавить`
@@ -24,9 +24,13 @@ I have been working in the warehouse logistics department for more than 16 years
 
 - [коллекция 1](https://www.postman.com/aviation-geoscientist-51267964/workspace/sklayrenko-v-for-cv)
 
+<<<<<<< HEAD
 ✔ SQL - запросы - SQL
 
 - [Auto](https://github.com/Bulldog-sl/SQL-Sklyarenko-V.)
+=======
+          - SQL (https://github.com/Bulldog-sl/SQL-Sklyarenko-V./tree/main)
+>>>>>>> 055b32d3a3f7721dbf63f1e39b7b34beed26a421
 
 ## 🛠 Инструменты и технологии:
 
