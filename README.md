@@ -46,6 +46,7 @@ I have been working in the warehouse logistics department for more than 16 years
 
 <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="Git" alt="Git" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/5c044fed6aa08eec970838d36070af4a8309cafe189cad03f34fbac32f7abf08/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34622f426173685f4c6f676f5f436f6c6f7265642e7376672f3130323470782d426173685f4c6f676f5f436f6c6f7265642e7376672e706e673f3230313830373233303534333530" title="Bash" alt="Bash" width="40" height="40" style="max-width: 100%;">
 
+
 ---
 
 ### 📁 Сертификаты доп. образования:
